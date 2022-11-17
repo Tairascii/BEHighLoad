@@ -1,5 +1,5 @@
 from django.db import models
-
+from django.contrib.auth.models import AbstractUser
 
 # Create your models here.
 class Category(models.Model):
@@ -59,10 +59,11 @@ class Product(models.Model):
         }
 
 
-class User(models.Model):
-    name = models.CharField(max_length=300)
+class User(AbstractUser):
+    username = models.CharField(max_length=300, unique=True, null=True)
     password = models.CharField(max_length=300)
-    status = models.BooleanField()
+    status = models.BooleanField(null=True)
+    image = models.ImageField(null=True, upload_to='imgs/', blank=True)
 
     class Meta:
         verbose_name = 'User'
@@ -73,7 +74,8 @@ class User(models.Model):
             'id': self.id,
             'name': self.name,
             'password': self.password,
-            'status': self.status
+            'status': self.status,
+            'image': self.image
         }
 
 
