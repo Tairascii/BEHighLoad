@@ -15,8 +15,6 @@ urlpatterns = [
     path('categories/', show_cats),
     path('subcategories/<int:catId>', show_subcats),
     path('products/', show_products),
-    path('users/', show_users),
-    path('users/<int:user_id>/', user_detail),
     path('products/<int:prodId>/comments/', CommentListAPIView.as_view()),
     path('products/<int:prodId>/comments/<int:pk>', CommentDetailAPIView.as_view()),
     path('products/<int:prodId>', product_detail),
