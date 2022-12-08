@@ -51,6 +51,8 @@ class Product(models.Model):
         return {
             'id': self.id,
             'name': self.name,
+            'cat': self.cat_id,
+            'subcat': self.subcat,
             'image': self.image,
             'description': self.description,
             'rating': self.rating,
@@ -97,3 +99,30 @@ class Comment(models.Model):
             'comment': self.comment,
             'date': self.date
         }
+
+
+class Order(models.Model):
+    userId = models.ForeignKey(User, on_delete=models.DO_NOTHING)
+    productId = models.ForeignKey(Product, on_delete=models.DO_NOTHING)
+    comment = models.CharField(max_length=300)
+    createAt = models.CharField(max_length=300)
+    status = models.CharField(max_length=64, default='created')
+    shipping = models.CharField(max_length=64)
+    preorder = models.BooleanField(default=False)
+
+    class Meta:
+        verbose_name = 'Order'
+        verbose_name_plural = 'Orders'
+
+    def to_json(self):
+        return {
+            'id': self.id,
+            'userId': self.userId,
+            'productId': self.productId,
+            'comment': self.comment,
+            'createAt': self.createAt,
+            'shipping': self.shipping,
+            'receiverId': self.receiverId,
+            'preorder': self.preorder,
+        }
+
