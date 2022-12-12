@@ -143,6 +143,7 @@ class OrderGeneralAPIView(APIView):
             serializer.save()
             logger.info('Order created')
             return Response(serializer.data, status=status.HTTP_201_CREATED)
+        logger.error(serializer.errors)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
     permission_classes = (IsAuthenticated,)
