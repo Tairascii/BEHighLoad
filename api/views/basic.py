@@ -4,6 +4,8 @@ from api.models import Category, SubCategory, Product, User, Comment
 from django.views.decorators.csrf import csrf_exempt
 from api.serializers import CategorySerializer, SubCategorySerializer, ProductSerializer, UserSerializer, CommentSerializer
 
+import logging
+logger = logging.getLogger('django')
 
 # Create your views here.
 
