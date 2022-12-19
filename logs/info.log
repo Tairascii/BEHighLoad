@@ -3,3 +3,1659 @@
 Watching for file changes with StatReloader
 products sent
 "GET /api/products/ HTTP/1.1" 200 119
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Categories sent
+Subcategories sent
+Products sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"OPTIONS /api/login/ HTTP/1.1" 200 491
+Watching for file changes with StatReloader
+"OPTIONS /api/login/ HTTP/1.1" 200 0
+"OPTIONS /api/login/ HTTP/1.1" 200 0
+"OPTIONS /api/login/ HTTP/1.1" 200 0
+Watching for file changes with StatReloader
+"OPTIONS /api/login/ HTTP/1.1" 200 0
+"POST /api/login/ HTTP/1.1" 200 483
+"OPTIONS /api/categories/ HTTP/1.1" 200 0
+Categories sent
+"OPTIONS /api/subcategories/2 HTTP/1.1" 200 0
+Subcategories sent
+"OPTIONS /api/subcategories/3 HTTP/1.1" 200 0
+"OPTIONS /api/products/ HTTP/1.1" 200 0
+Subcategories sent
+Products sent
+"OPTIONS /api/subcategories/4 HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/1 HTTP/1.1" 200 0
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Subcategories sent
+Categories sent
+Subcategories sent
+Products sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Products sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Categories sent
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"OPTIONS /api/products/3 HTTP/1.1" 200 0
+"OPTIONS /api/products/3/comments/ HTTP/1.1" 200 0
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 117
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Subcategories sent
+Subcategories sent
+Products sent
+Categories sent
+Subcategories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/2
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+"GET /api/categories/ HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/4
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/products/
+"GET /api/products/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/3
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/4
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/3
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/4
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/products/
+"GET /api/products/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/products/
+Unauthorized: /api/categories/
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Products sent
+"GET /api/products/ HTTP/1.1" 200 119
+Subcategories sent
+Subcategories sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 119
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/categories/
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/2
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/4
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Products sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 787
+Subcategories sent
+Products sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/products/ HTTP/1.1" 200 792
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 790
+"GET /api/products/3/comments/ HTTP/1.1" 200 319
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 319
+"GET /api/products/3 HTTP/1.1" 200 746
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 319
+Products sent
+Subcategories sent
+Subcategories sent
+Categories sent
+Subcategories sent
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Subcategories sent
+Subcategories sent
+Categories sent
+Products sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Categories sent
+Subcategories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Products sent
+"GET /api/products/ HTTP/1.1" 200 748
+Subcategories sent
+Subcategories sent
+Categories sent
+Subcategories sent
+Products sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/2
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/subcategories/3
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/products/
+Unauthorized: /api/categories/
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/4
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/products/
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/2
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+Products sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Categories sent
+Subcategories sent
+Products sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3/comments/ HTTP/1.1" 401 58
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"POST /api/login/ HTTP/1.1" 200 483
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 319
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Comment for product 3 created
+"POST /api/products/3/comments/ HTTP/1.1" 201 90
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 371
+"OPTIONS /api/products/3/comments/5 HTTP/1.1" 200 0
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 371
+Comment 5 deleted
+"DELETE /api/products/3/comments/5 HTTP/1.1" 204 21
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Unauthorized: /api/products/3
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3 HTTP/1.1" 401 185
+"GET /api/products/3/comments/ HTTP/1.1" 401 185
+Unauthorized: /api/products/3
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3 HTTP/1.1" 401 183
+"GET /api/products/3/comments/ HTTP/1.1" 401 183
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/categories/ HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+Unauthorized: /api/products/
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Categories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Products sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Unauthorized: /api/products/3
+Unauthorized: /api/products/3/comments/
+"GET /api/products/3 HTTP/1.1" 401 185
+"GET /api/products/3/comments/ HTTP/1.1" 401 185
+"POST /api/login/ HTTP/1.1" 200 483
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+"GET /api/products/3 HTTP/1.1" 200 746
+"POST /api/login/ HTTP/1.1" 200 483
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Categories sent
+Subcategories sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Products sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+Unauthorized: /api/subcategories/4
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+Unauthorized: /api/products/
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Subcategories sent
+Categories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Products sent
+"GET /api/products/ HTTP/1.1" 200 748
+Unauthorized: /api/products/2/comments/
+"GET /api/products/2/comments/? HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Comments for product 2 sent
+"GET /api/products/2/comments/? HTTP/1.1" 200 2
+Comments for product 3 sent
+"GET /api/products/3/comments/? HTTP/1.1" 200 280
+/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /api/login/ HTTP/1.1" 200 483
+Orders of user 6 sent
+"GET /api/orders/6 HTTP/1.1" 200 2
+Internal Server Error: /api/orders/
+Traceback (most recent call last):
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/tairsairanbekov/PycharmProjects/my_env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py", line 139, in post
+    if not buy_product(qty, prodId):
+  File "/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py", line 105, in buy_product
+    for sing_id in prod_id:
+TypeError: 'int' object is not iterable
+"POST /api/orders/ HTTP/1.1" 500 92239
+/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py changed, reloading.
+Watching for file changes with StatReloader
+Order created
+"POST /api/orders/ HTTP/1.1" 201 132
+"OPTIONS /api/categories/ HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/1 HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/2 HTTP/1.1" 200 0
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+"GET /api/categories/ HTTP/1.1" 401 183
+"OPTIONS /api/subcategories/4 HTTP/1.1" 200 0
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"OPTIONS /api/subcategories/3 HTTP/1.1" 200 0
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"OPTIONS /api/products/ HTTP/1.1" 200 0
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/products/
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"OPTIONS /api/login/ HTTP/1.1" 200 0
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Subcategories sent
+Products sent
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Subcategories sent
+Subcategories sent
+Products sent
+Categories sent
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Subcategories sent
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Subcategories sent
+Subcategories sent
+Products sent
+Categories sent
+Subcategories sent
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Products sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Subcategories sent
+Categories sent
+Subcategories sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+Subcategories sent
+Products sent
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Subcategories sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Products sent
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Subcategories sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+Categories sent
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"OPTIONS /api/products/3 HTTP/1.1" 200 0
+"OPTIONS /api/products/3/comments/ HTTP/1.1" 200 0
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Subcategories sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 280
+Comment for product 3 created
+"POST /api/products/3/comments/ HTTP/1.1" 201 84
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 365
+Product 3 sent
+Comments for product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 365
+Comments for product 3 sent
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+"GET /api/products/3/comments/ HTTP/1.1" 200 365
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 79
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3719
+"POST /api/login/ HTTP/1.1" 200 483
+Not Found: /api/orders/2/4
+"GET /api/orders/2/4 HTTP/1.1" 404 23
+Orders of user 6 sent
+"GET /api/orders/6 HTTP/1.1" 200 134
+"OPTIONS /api/categories/ HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/1 HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/2 HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/3 HTTP/1.1" 200 0
+"OPTIONS /api/subcategories/4 HTTP/1.1" 200 0
+"OPTIONS /api/products/ HTTP/1.1" 200 0
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/products/
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"OPTIONS /api/login/ HTTP/1.1" 200 0
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+Products sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"OPTIONS /api/products/3/comments/ HTTP/1.1" 200 0
+"OPTIONS /api/products/3 HTTP/1.1" 200 0
+Product 3 sent
+"GET /api/products/3 HTTP/1.1" 200 746
+Comments for product 3 sent
+"GET /api/products/3/comments/ HTTP/1.1" 200 365
+Orders of user 6 sent
+"GET /api/orders/6 HTTP/1.1" 200 134
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Categories sent
+Products sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/products/ HTTP/1.1" 200 748
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/4
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/products/
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Subcategories sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Subcategories sent
+Products sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"OPTIONS /api/orders/ HTTP/1.1" 200 0
+{'comment': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+Bad Request: /api/orders/
+"POST /api/orders/ HTTP/1.1" 400 44
+Unauthorized: /api/orders/
+"POST /api/orders/ HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Unavailable product quantity
+Unauthorized: /api/orders/
+"POST /api/orders/ HTTP/1.1" 401 43
+Subcategories sent
+Categories sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Products sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Subcategories sent
+Subcategories sent
+Products sent
+Subcategories sent
+Categories sent
+Subcategories sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+{'comment': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+Bad Request: /api/orders/
+"POST /api/orders/ HTTP/1.1" 400 44
+Unauthorized: /api/subcategories/1
+Unauthorized: /api/categories/
+Unauthorized: /api/subcategories/2
+Unauthorized: /api/subcategories/3
+Unauthorized: /api/products/
+Unauthorized: /api/subcategories/4
+"GET /api/categories/ HTTP/1.1" 401 183
+"GET /api/subcategories/1 HTTP/1.1" 401 183
+"GET /api/subcategories/2 HTTP/1.1" 401 183
+"GET /api/products/ HTTP/1.1" 401 183
+"GET /api/subcategories/4 HTTP/1.1" 401 183
+"GET /api/subcategories/3 HTTP/1.1" 401 183
+"POST /api/login/ HTTP/1.1" 200 483
+Categories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+Subcategories sent
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+Subcategories sent
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+Subcategories sent
+Products sent
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/products/ HTTP/1.1" 200 748
+Subcategories sent
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+{'comment': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+Bad Request: /api/orders/
+"POST /api/orders/ HTTP/1.1" 400 44
+Subcategories sent
+Categories sent
+Products sent
+Subcategories sent
+Subcategories sent
+Subcategories sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+"GET /api/products/ HTTP/1.1" 200 748
+Order created
+"POST /api/orders/ HTTP/1.1" 201 133
+Subcategories sent
+Subcategories sent
+Subcategories sent
+Categories sent
+Subcategories sent
+Products sent
+"GET /api/categories/ HTTP/1.1" 200 24
+"GET /api/products/ HTTP/1.1" 200 748
+"GET /api/subcategories/3 HTTP/1.1" 200 2
+"GET /api/subcategories/4 HTTP/1.1" 200 2
+"GET /api/subcategories/2 HTTP/1.1" 200 2
+"GET /api/subcategories/1 HTTP/1.1" 200 42
+/Users/tairsairanbekov/PycharmProjects/BEHighLoad/api/views/cbv.py changed, reloading.
+Watching for file changes with StatReloader
