@@ -38,7 +38,6 @@ class CommentListAPIView(APIView):
     permission_classes = (IsAuthenticated,)
 
 
-
 class CommentDetailAPIView(APIView):
     def get_object(self, pk):
         try:

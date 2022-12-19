@@ -61,7 +61,6 @@ def show_products(request):
     return JsonResponse(serializer.data, safe=False)
 
 
-
 def show_users(request):
     users = User.objects.all()
     serializer = UserSerializer(users, many=True)
@@ -84,6 +83,7 @@ def user_detail(request, user_id):
             serializer.save()
             return JsonResponse(serializer.data)
         return JsonResponse(serializer.errors)
+
 
 def show_comments(request):
     comments = Comment.objects.all()
